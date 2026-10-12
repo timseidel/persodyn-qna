@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "PerSoDyn – Fragen & Antworten"
+  page-navigation: false
+  search: false
+
+format:
+  html:
+    lang: de
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-title: "Inhalt"
+    toc-depth: 3
+    anchor-sections: true
+    smooth-scroll: true

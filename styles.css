@@ -1,0 +1,7 @@
+/* Eigene Anpassungen am Aussehen der Seite */
+
+/* Fragen (### Überschriften) etwas absetzen */
+h3 {
+  margin-top: 2rem;
+  font-size: 1.15rem;
+}

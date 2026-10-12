@@ -1,0 +1,55 @@
+---
+title: "Fragen & Antworten zur PerSoDyn-Studie"
+subtitle: "Alles Wichtige zur Teilnahme auf einen Blick"
+date-modified: last-modified
+date-format: "DD.MM.YYYY"
+---
+
+Willkommen! Auf dieser Seite beantworten wir häufige Fragen zur PerSoDyn-Studie.
+Deine Frage ist nicht dabei? Schreib uns gern an [studie@example.org](mailto:studie@example.org).
+
+## Allgemeines zur Studie
+
+### Worum geht es in der Studie?
+
+Kurze Beschreibung des Studienziels. *(Platzhalter – bitte ersetzen.)*
+
+### Wer führt die Studie durch?
+
+Name der Institution, des Lehrstuhls bzw. des Projektteams.
+
+## Teilnahme
+
+### Wer kann teilnehmen?
+
+- Kriterium 1
+- Kriterium 2
+
+### Wie lange dauert die Teilnahme?
+
+Angabe zur Dauer, z. B. **ca. 10 Minuten pro Tag über 14 Tage**.
+
+### Kann ich die Teilnahme abbrechen?
+
+Ja, jederzeit und ohne Angabe von Gründen.
+
+## Datenschutz
+
+### Was passiert mit meinen Daten?
+
+Beschreibung zur Speicherung, Pseudonymisierung und Löschung der Daten.
+
+::: {.callout-note}
+## Hinweis
+So sieht ein hervorgehobener Hinweiskasten aus – nützlich für wichtige Infos.
+:::
+
+## Vergütung
+
+### Bekomme ich eine Aufwandsentschädigung?
+
+Angaben zu Vergütung, Gutscheinen oder Versuchspersonenstunden.
+
+## Kontakt
+
+Bei weiteren Fragen erreichst du uns unter [studie@example.org](mailto:studie@example.org).
