@@ -6,7 +6,7 @@ date-format: "DD.MM.YYYY"
 ---
 
 Willkommen! Auf dieser Seite beantworten wir häufige Fragen zur PerSoDyn-Studie.
-Deine Frage ist nicht dabei? Schreib uns gern an [studie@example.org](mailto:studie@example.org).
+Deine Frage ist nicht dabei? Schreib uns gern an [persodyn@uni-muenster.de](mailto:persodyn@uni-muenster.de).
 
 ## Allgemeines zur Studie
 
@@ -31,7 +31,7 @@ Angabe zur Dauer, z. B. **ca. 10 Minuten pro Tag über 14 Tage**.
 
 ### Kann ich die Teilnahme abbrechen?
 
-Ja, jederzeit und ohne Angabe von Gründen.
+Ja, jederzeit und ohne Angabe von Gründen. Schreibe uns hiefür bitte eine Mail an an [persodyn@uni-muenster.de](mailto:persodyn@uni-muenster.de).
 
 ## Datenschutz
 
@@ -53,3 +53,34 @@ Angaben zu Vergütung, Gutscheinen oder Versuchspersonenstunden.
 ## Kontakt
 
 Bei weiteren Fragen erreichst du uns unter [studie@example.org](mailto:studie@example.org).
+
+## Installation der Studien-App
+
+Bei unserer Studien-App handelt es sich um eine WebApp. Sie wird daher nicht wie eine gewöhnliche App aus dem App Store oder Google Play Store installiert. Stattdessen wird sie über den Browser aufgerufen und kann anschließend auf dem Startbildschirm deines Handys abgelegt werden.
+
+### Ich finde die App nicht auf meinem Startbildschirm. 
+
+Suche nicht nur auf deinem Startbildschirm, sondern auch unter „allen Apps“. Du kannst auch über die Suchfunktion deines Handys nach „PerSoDyn“ suchen. Falls möglich, lege die WebApp anschließend auf dem Startbildschirm ab.
+
+### Ich kann die App nicht installieren, es passiert nichts. 
+
+Da es sich um eine WebApp handelt, kann die Einrichtung je nach Handy und Internetverbindung einige Minuten dauern. Bitte warte zunächst einige Minuten. Sollte innerhalb dieser Zeit nichts passieren, versuche die Einrichtung erneut.
+Achte außerdem darauf, dass du eine stabile Internetverbindung hast und du die Einrichtung über einen unterstützten Browser (Safari, Google Chrome) durchführst.
+Wenn die Einrichtung auch nach mehreren Versuchen nicht funktioniert, wende dich bitte per E-Mail an uns. 
+
+### Ich bekomme keine Testbenachrichtigungen. 
+
+Wenn du keine Benachrichtigungen von der Studien-App erhältst, überprüfe bitte zunächst die folgenden Einstellungen:
+1. „Nicht stören“ überprüfen: Stelle sicher, dass sich dein Handy nicht im „Nicht stören“-, „Ruhe“- oder einem vergleichbaren Modus befindet. Solche Einstellungen können Benachrichtigungen blockieren oder stummschalten.
+2. Benachrichtigungen für deinen Browser überprüfen: Öffne die Einstellungen deines Handys und suche nach dem Browser, den du für die Studien-App verwendest. Überprüfe, ob Benachrichtigungen für diesen Browser zugelassen sind.
+3. Benachrichtigungen in den Browser-Einstellungen überprüfen: Öffne anschließend deinen Browser und gehe in dessen Einstellungen. Überprüfe, ob Benachrichtigungen für die Studien-App bzw. die Webseite der Studie zugelassen sind.
+4. Testbenachrichtigung erneut erzeugen
+
+### Ich habe alle Schritte ausprobiert, aber es funktioniert trotzdem nicht. 
+
+Danke, dass du bis hierhin durchgehalten hast. Leider gibt es einzelne Fälle, in denen die Installation der App und das sichere Zustellen der Benachrichtigungen nicht funktioniert. 
+Bitte wende dich mit einer kurzen E-Mail an uns, wir finden eine Alternativlösung!
+
+
+
+
