@@ -1,8 +1,6 @@
 ---
 title: "Fragen & Antworten zur PerSoDyn-Studie"
 subtitle: "Alles Wichtige zur Teilnahme auf einen Blick"
-date-modified: last-modified
-date-format: "DD.MM.YYYY"
 ---
 
 Willkommen! Auf dieser Seite findest du die wichtigsten Informationen zur PerSoDyn-Studie.
@@ -21,7 +19,7 @@ Die Studie wird an der Universität Münster von der Arbeitseinheit für Psychol
 
 ### Wer kann teilnehmen?
 
-Teilnehmen können Personen, die mindestens 18 Jahre alt sind und ein eigenes Smartphone haben.
+Teilnehmen können Personen, die **18 bis 35 Jahre alt** sind, **Deutschkenntnisse auf Muttersprachniveau** und ein **eigenes Smartphone** haben. Wenn du im Masterstudiengang Klinische Psychologie und Psychotherapie (KliPPT) studierst, darfst du dich noch nicht im dritten oder einem höheren Semester befinden.
 
 ### Wie läuft die Studie ab?
 
@@ -29,18 +27,38 @@ Die Studie besteht aus vier Teilen. Der Gesamtaufwand beträgt etwa **10 Stunden
 
 1. **Online-Fragebogen (von zu Hause, ca. 50 Minuten):** Du beantwortest Fragen zu deiner Persönlichkeit, deinem Wohlbefinden, deinen Einstellungen und deinem Sozialleben.
 2. **Fragebögen durch zwei Personen, die dich gut kennen:** Bitte leite einen Fragebogen an zwei Personen weiter, die dich gut kennen.
-3. **Smartphone-Phase (18 Tage, bei Bedarf bis zu 14 Tage länger):** Du erhältst sechsmal täglich eine Erinnerung zu einem sehr kurzen Fragebogen über deine sozialen Interaktionen. Das Ausfüllen dauert jeweils etwa 2 Minuten. Nach einer sozialen Interaktion kannst du einen Fragebogen auch selbst starten. Zusätzlich führst du zu zwei verschiedenen Zeitpunkten kurze Chats mit KI-Sprachmodellen (LLMs); insgesamt dauern diese Chat-Aufgaben etwa eine Stunde. Für die anschließende Labortestung brauchst du mindestens **80 ausgefüllte Fragebögen zu sozialen Interaktionen**.
-4. **Labortestung (ca. 2 Stunden):** Du machst 20 kurze Rollenspiele mit Schauspieler:innen. Jedes Rollenspiel dauert etwa 1,5 Minuten; dazwischen gibt es Pausen und Kaffee. Die Labortestung findet in der Limette, Malmedyweg 19, 48149 Münster, statt. Dabei werden Video- und Tonaufnahmen gemacht.
+3. **Smartphone-Phase (18 Tage, bei Bedarf länger):** Du erhältst sechsmal täglich eine Erinnerung zu einem kurzen Fragebogen über deine sozialen Interaktionen. Das Ausfüllen dauert jeweils etwa 3-4 Minuten. Nach einer sozialen Interaktion kannst du einen Fragebogen auch selbst starten. Zusätzlich führst du zu zwei verschiedenen Zeitpunkten kurze Chats mit KI-Sprachmodellen (LLMs); insgesamt dauern diese Chat-Aufgaben etwa eine Stunde. Für die anschließende Labortestung brauchst du mindestens **80 ausgefüllte Fragebögen zu sozialen Interaktionen**.
+4. **Labortestung (ca. 2 Stunden):** Wenn du alle vorherigen Aufhaben erledigt hast, laden wir dich ins Labor ein. Die Labortestung findet in der Limette, Malmedyweg 19, 48149 Münster, statt. Dabei werden Video- und Tonaufnahmen gemacht.
 
 ### Kann ich die Teilnahme abbrechen?
 
 Ja. Die Teilnahme ist freiwillig und du kannst jederzeit ohne Angabe von Gründen aufhören. Bitte schreibe uns dazu eine E-Mail an [persodyn@uni-muenster.de](mailto:persodyn@uni-muenster.de).
 
-## Vergütung
+## Vergütung {#verguetung}
 
 Für die vollständige Teilnahme an allen Bestandteilen der Studie erhältst du **100 €**. Wenn du nicht an der Labortestung teilnimmst, erhältst du bis zu **20 €**.
 
 Psychologie- und Sportstudierende können stattdessen bis zu **10 Versuchspersonenstunden (VP-Stunden)** erhalten. Wenn sie alle Studienbestandteile absolvieren, bekommen sie zusätzlich **20 €**.
+
+## Informationen für Personen, die einen Fremdbericht ausfüllen {#fremdberichte}
+
+### Warum wurde ich gebeten, einen Fragebogen auszufüllen?
+
+Eine Person, die an unserer PerSoDyn-Studie teilnimmt, hat dich gebeten, einen Fragebogen über sie auszufüllen. Einen solchen Fragebogen nennen wir **Fremdbericht**. Darin schätzt du die Person aus deiner Sicht ein.
+
+In der Studie untersuchen wir, wie Menschen soziale Begegnungen erleben und wie sie sich in unterschiedlichen Situationen verhalten. Mehr zum Forschungsprojekt findest du unter [Allgemeines zur Studie](#allgemeines-zur-studie).
+
+### Verlosung
+
+Für Personen, die einen Fremdbericht ausfüllen, gibt es eine **Verlosung von 50 Wunschgutscheinen im Wert von jeweils 50 €**. Die Teilnahme an der Verlosung ist freiwillig. Weitere Informationen zur Teilnahme an der Verlosung erhältst du im Fragebogen.
+
+### Kann ich auch selbst an der Studie teilnehmen?
+
+Ja! Wenn du selbst an der vollständigen Studie teilnehmen möchtest, musst du **18 bis 35 Jahre alt** sein, **Deutschkenntnisse auf Muttersprachniveau** und ein **eigenes Smartphone** haben. Studierst du im M.Sc. Psychologie mit dem Schwerpunkt "Klinische Psychologie und Psychotherapie", kannst du nur teilnehmen, wenn du noch nicht im dritten oder einem höheren Semester bist.
+
+Für die vollständige Studienteilnahme erhältst du **100 €**. Psychologie- und Sportstudierende können stattdessen bis zu **10 VP-Stunden und zusätzlich 20 €** erhalten, wenn sie alle Studienbestandteile absolvieren. Informationen zum Ablauf der Studie findest du unter [Wie läuft die Studie ab?](#wie-läuft-die-studie-ab).
+
+[Hier](https://studien.uni-muenster.de/persodyn-signup/){target="_blank"} kannst du dich für die Studie anmelden.
 
 ## Weitere Informationen
 
@@ -50,7 +68,7 @@ Alle wichtigen Informationen zur Teilnahme und zum Umgang mit deinen Daten finde
 
 Bei Fragen erreichst du das Studienteam unter [persodyn@uni-muenster.de](mailto:persodyn@uni-muenster.de).
 
-## Installation der Studien-App
+## Hilfestellungen für die Installation der Studien-App
 
 Bei unserer Studien-App handelt es sich um eine WebApp. Sie wird daher nicht wie eine gewöhnliche App aus dem App Store oder Google Play Store installiert. Stattdessen wird sie über den Browser aufgerufen und kann anschließend auf dem Startbildschirm deines Handys abgelegt werden.
 
@@ -76,4 +94,4 @@ Wenn du keine Benachrichtigungen von der Studien-App erhältst, überprüfe bitt
 ### Ich habe alle Schritte ausprobiert, aber es funktioniert trotzdem nicht.
 
 Danke, dass du bis hierhin durchgehalten hast. Leider gibt es einzelne Fälle, in denen die Installation der App und das sichere Zustellen der Benachrichtigungen nicht funktioniert.
-Bitte wende dich mit einer kurzen E-Mail an uns, wir finden eine Alternativlösung!
+Bitte wende dich mit einer kurzen E-Mail an [persodyn@uni-muenster.de](mailto:persodyn@uni-muenster.de), wir finden eine Alternativlösung!
