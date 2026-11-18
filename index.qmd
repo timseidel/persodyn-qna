@@ -71,7 +71,7 @@ Ja! Wenn du selbst an der vollständigen Studie teilnehmen möchtest, musst du *
 
 Für die vollständige Studienteilnahme erhältst du **100 €**. Psychologie- und Sportstudierende können stattdessen bis zu **10 VP-Stunden und zusätzlich 20 €** erhalten, wenn sie alle Studienbestandteile absolvieren. Informationen zum Ablauf der Studie findest du unter [Wie läuft die Studie ab?](#wie-läuft-die-studie-ab).
 
-[Hier](https://studien.uni-muenster.de/persodyn-signup/){target="_blank"} kannst du dich für die Studie anmelden.
+[Hier](https://studien.uni-muenster.de/persodyn-signup?_new_session=1){target="_blank"} kannst du dich für die Studie anmelden.
 
 ## Weitere Informationen
 
