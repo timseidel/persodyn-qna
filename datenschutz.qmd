@@ -1,0 +1,74 @@
+---
+title: "Datenschutzerklärung"
+from: markdown+hard_line_breaks
+---
+
+## 1. Verantwortlicher
+
+Verantwortlicher im Sinne der EU-Datenschutz-Grundverordnung (DSGVO), anderer nationaler Datenschutzgesetze der Mitgliedstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist die Universität Münster, vertreten durch die Rektorin, Prof. Dr. Susanne Menzel-Riedl,
+Schlossplatz 2, 48149 Münster
+Tel.: +49 251 83-0
+E-Mail: [mailbox@uni-muenster.de](mailto:mailbox@uni-muenster.de)
+
+Bei inhaltlichen Rückfragen zum Projekt wende dich bitte direkt an den fachlichen Ansprechpartner:
+
+Dr. Niclas Kuper
+Fliednerstraße 21, 48149 Münster
+Tel.: +49 251 83-34203
+E-Mail: [niclas.kuper@uni-muenster.de](mailto:niclas.kuper@uni-muenster.de)
+
+Bei Schwierigkeiten mit den internetbasierten Fragebögen ist das Projektteam unter der studieneigenen E-Mail-Adresse erreichbar: [persodyn@uni-muenster.de](mailto:persodyn@uni-muenster.de)
+
+### Datenschutzbeauftragte
+
+Die Datenschutzbeauftragte der Universität Münster ist:
+
+Nina Meyer-Pachur
+Schlossplatz 2, 48149 Münster
+Tel.: +49 251 83-22446
+E-Mail: [datenschutz@uni-muenster.de](mailto:datenschutz@uni-muenster.de)
+
+## 2. Zweck dieser Website
+
+Diese Website dient ausschließlich der Bereitstellung allgemeiner Informationen sowie häufig gestellter Fragen (Q&A) zur Studie „PerSoDyn“. Der Besuch dieser Informationsseite ist freiwillig und stellt noch keine Studienteilnahme dar. Über diese Website werden keine Studiendaten, Fragebogenantworten oder sonstigen Eingaben erhoben.
+
+Die Website enthält Links zur Anmeldung und zu E-Mail-Adressen des Studienteams. Erst wenn du einen dieser Links anklickst, verlässt du diese Seite bzw. öffnest dein E-Mail-Programm. Für die Anmeldung und die Studienteilnahme gelten die dort bereitgestellten Datenschutzinformationen zur Studie.
+
+## 3. Hosting über GitHub Pages
+
+Diese Website wird über GitHub Pages gehostet, einen Dienst der GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA, bzw. der GitHub B.V., Prins Bernhardplein 200, 1097 JB Amsterdam, Niederlande. Den Datenschutzbeauftragten von GitHub erreichst du unter dpo@github.com.
+
+Beim Aufruf der Seite erfasst GitHub automatisiert sogenannte Server-Logfiles, um die Sicherheit und Stabilität des Betriebs zu gewährleisten. Hierzu gehören insbesondere deine IP-Adresse, Datum und Uhrzeit der Anfrage, Referrer-URL, HTTP-Statuscode sowie Informationen zu Browser und Betriebssystem. Wir haben keinen direkten Zugriff auf diese Logdaten und führen kein Besucher-Tracking durch. Die Speicherdauer richtet sich nach den Vorgaben von GitHub.
+
+* **Rechtsgrundlage:** Die Verarbeitung erfolgt zur Erfüllung der der Universität obliegenden Aufgaben, hier der Information über ein Forschungsprojekt, gemäß Art. 6 Abs. 1 Satz 1 lit. e, Abs. 3 Satz 1 lit. b DSGVO i. V. m. § 3 Abs. 1 DSG NRW und § 3 Abs. 1 HG NRW. Sie ist erforderlich, um die Studieninformationen sicher, stabil und barrierefrei bereitzustellen.
+* **Datenübermittlung in Drittländer:** Die Datenverarbeitung findet unter anderem auf Servern in den USA statt. GitHub ist nach dem EU-U.S. Data Privacy Framework zertifiziert und setzt EU-Standardvertragsklauseln (SCCs) ein.
+* **Weitere Informationen:** Details findest du in der [Allgemeinen Datenschutzerklärung von GitHub](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement).
+
+## 4. Lokale Einbindung, Cookies und Analyse-Tools
+
+Diese Seite wurde mit Quarto als statische Website erstellt. Alle verwendeten Skripte, Schriftarten und Stylesheets werden direkt von dieser Website ausgeliefert. Es werden keine externen Drittanbieter-Dienste (z. B. CDNs oder Schriftarten-Dienste), keine Analyse- oder Tracking-Tools und keine Cookies eingesetzt.
+
+## 5. Kontaktaufnahme per E-Mail
+
+Wenn du uns per E-Mail kontaktierst, verarbeiten wir die von dir mitgeteilten Daten (z. B. E-Mail-Adresse, Inhalt deiner Nachricht) ausschließlich, um deine Anfrage zu beantworten. Rechtsgrundlage ist Art. 6 Abs. 1 Satz 1 lit. e, Abs. 3 Satz 1 lit. b DSGVO i. V. m. § 3 Abs. 1 DSG NRW und § 3 Abs. 1 HG NRW. Deine Daten werden gelöscht, sobald deine Anfrage abschließend bearbeitet ist und keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
+
+## 6. Deine Rechte
+
+Gemäß der DSGVO hast du grundsätzlich das Recht auf:
+
+* Auskunft (Art. 15 DSGVO),
+* Berichtigung (Art. 16 DSGVO),
+* Löschung (Art. 17 DSGVO),
+* Einschränkung der Verarbeitung (Art. 18 DSGVO),
+* Datenübertragbarkeit (Art. 20 DSGVO),
+* Widerspruch (Art. 21 DSGVO).
+
+Möchtest du eines dieser Rechte in Anspruch nehmen, wende dich bitte an eine der oben genannten Kontaktpersonen.
+
+Außerdem hast du das Recht, dich bei einer Aufsichtsbehörde zu beschweren (Art. 77 DSGVO). Zuständig ist:
+
+Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen
+Kavalleriestraße 2–4, 40213 Düsseldorf (Postanschrift: Postfach 20 04 44, 40102 Düsseldorf)
+Tel.: +49 211 38424-0
+E-Mail: [poststelle@ldi.nrw.de](mailto:poststelle@ldi.nrw.de)
+Web: [https://www.ldi.nrw.de](https://www.ldi.nrw.de)

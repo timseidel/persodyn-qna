@@ -1,0 +1,6 @@
+/*-- scss:defaults --*/
+
+// Keine Schriftarten von Google Fonts nachladen (Datenschutz):
+// Das Cosmo-Theme würde sonst Source Sans Pro von fonts.googleapis.com einbinden.
+$web-font-path: false;
+$font-family-sans-serif: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;

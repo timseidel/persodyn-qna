@@ -1,0 +1,41 @@
+---
+title: "Impressum"
+toc: false
+from: markdown+hard_line_breaks
+---
+
+## Anbieter
+
+Westfälische Wilhelms-Universität Münster
+Körperschaft des öffentlichen Rechts und zugleich Einrichtung des Landes Nordrhein-Westfalen
+
+Schlossplatz 2
+48149 Münster
+
+Vertreten durch die Rektorin, Prof. Dr. Susanne Menzel-Riedl
+
+Umsatzsteuer-Identifikationsnummer: DE 126118759
+
+Tel.: +49 251 83-0
+Fax: +49 251 83-32090
+E-Mail: [mailbox@uni-muenster.de](mailto:mailbox@uni-muenster.de)
+
+## Inhaltlich verantwortlich
+
+Dr. Niclas Kuper
+Fliednerstraße 21
+48149 Münster
+
+Tel.: +49 251 83-34203
+E-Mail: [niclas.kuper@uni-muenster.de](mailto:niclas.kuper@uni-muenster.de)
+
+Kontakt zum Studienteam: [persodyn@uni-muenster.de](mailto:persodyn@uni-muenster.de)
+
+## Zuständige Aufsichtsbehörde
+
+Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen
+Völklinger Straße 49, 40221 Düsseldorf
+
+## Haftung für Links
+
+Diese Seite enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Für diese fremden Inhalte können wir daher keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter verantwortlich.

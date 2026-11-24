@@ -1,16 +1,25 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - fonts/*
 
 website:
   title: "PerSoDyn – Fragen & Antworten"
   page-navigation: false
   search: false
+  page-footer:
+    left: "© Universität Münster"
+    right:
+      - text: "Impressum"
+        href: impressum.qmd
+      - text: "Datenschutz"
+        href: datenschutz.qmd
 
 format:
   html:
     lang: de
-    theme: cosmo
+    theme: [cosmo, custom.scss]
     css: styles.css
     toc: true
     toc-title: "Inhalt"
