@@ -3,6 +3,8 @@ title: "Datenschutzerklärung"
 from: markdown+hard_line_breaks
 ---
 
+[← Zurück zur Startseite](index.qmd)
+
 ## 1. Verantwortlicher
 
 Verantwortlicher im Sinne der EU-Datenschutz-Grundverordnung (DSGVO), anderer nationaler Datenschutzgesetze der Mitgliedstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist die Universität Münster, vertreten durch die Rektorin, Prof. Dr. Susanne Menzel-Riedl,
