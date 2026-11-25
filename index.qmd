@@ -27,14 +27,15 @@ Teilnehmen können Personen, die **18 bis 35 Jahre alt** sind, **Deutschkenntnis
 
 Die Studie besteht aus **zwei Teilen**: der Online-Erhebung und der anschließenden Labor-Erhebung.
 
-1. **Online-Erhebung** 
+- **Online-Erhebung** 
     - **Zwei Fragebögen über dich:** Du beantwortest Fragen zu deiner Persönlichkeit, deinem Wohlbefinden, deinen Einstellungen und deinem Sozialleben. Den ersten Fragebogen (ca. 30 min) beantwortest du zu Beginn der Studie, den zweiten (ca. 20 min) später im Verlauf der Smartphone-Phase.
-    - **Fragebogen für zwei Personen, die dich gut kennen:** Du leitest einen Fragebogen (ca. 25 min) an mind. zwei Personen weiter, die dich gut kennen. Ab der dritten Person, die den Fragebogen über dich ausfüllt, erhältst du für jede weitere Person ein Los für unser [Gewinnspiel](#gewinnspiel). 
-    - **Smartphone-Phase** (18 Tage, bei Bedarf länger): Nach sozialen Interaktionen startest du selbst in der App einen Fragebogen zu der Situation, das dauert jeweils nur wenige Minuten. Zusätzlich erhältst du sechsmal täglich eine Erinnerung, damit keine Interaktion verloren geht. 
+    - **Fragebogen für zwei Personen, die dich gut kennen:** Du leitest einen Fragebogen (ca. 25 min) an mind. zwei Personen weiter, die dich gut kennen. Ab der dritten Person, die den Fragebogen über dich ausfüllt, erhältst du für jede weitere Person ein Los für unsere [Verlosung](#verlosung). 
+    - **Smartphone-Phase** (18 Tage, bei Bedarf länger): Nach sozialen Interaktionen startest du selbst in der App einen Fragebogen zu der Situation, das dauert jeweils nur wenige Minuten. Zusätzlich erinnert dich die App bis zu sechsmal täglich daran, soziale Interaktionen zu erfassen, die du noch nicht berichtet hast. Wenn du auf die Fragebögen in der App nicht reagierst, erhältst du jeweils eine Erinnerung per E-Mail. 
     - **Einschätzungen deines Gegenübers:** Nach einer Interaktion kannst du deinem Gegenüber einen QR-Code zeigen oder einen Link schicken, über den die Person kurz einschätzt, wie sie die Situation erlebt hat.
-    - **Ziel:** mindestens **80 ausgefüllte Fragebögen** zu sozialen Interaktionen, davon mindestens **15** mit einer Einschätzung deines Gegenübers. Falls du dieses Ziel nach 18 Tagen noch nicht erreicht hast, laufen die Befragungen weiter. Insgesamt hast du dafür bis zu 40 Tage Zeit. Ab der 16. Einschätzung deines Gegenübers erhältst du für jede Einschätzung ein Los in unserem [Gewinnspiel](#gewinnspiel).
-    - **Chats mit KI:** Zu zwei verschiedenen Zeitpunkten während der Smartphone-Phase führst du mehrere kurze Chats mit KI-Sprachmodellen (insgesamt ca. 1 Stunde).
-2. **Labor-Erhebung** 
+    - **Ziel:** mindestens **80 ausgefüllte Fragebögen** zu sozialen Interaktionen, davon mindestens **15** mit einer Einschätzung deines Gegenübers. Falls du dieses Ziel nach 18 Tagen noch nicht erreicht hast, wird die Smartphone-Phase um einzelne Tage verlängert. Ab der 16. Einschätzung deines Gegenübers erhältst du für jede Einschätzung ein Los in unserer [Verlosung](#verlosung).
+    - **Chats mit KI:** Zu zwei verschiedenen Zeitpunkten während der Smartphone-Phase führst du mehrere kurze Chats mit KI-Sprachmodellen. Plane einmal ca. 25 Minuten und einmal ca. 35 Minuten ein.
+
+- **Labor-Erhebung** 
     - Wenn du alle vorherigen Aufhaben erledigt hast, laden wir dich ins Labor ein. Die Labor-Erhebung findet in der Limette, Malmedyweg 19, 48149 Münster, statt und dauert ca. **1,5 bis 2 Stunden**. Dabei werden Video- und Tonaufnahmen gemacht.
 
 ![](studienablauf.png){width=100%}
@@ -49,7 +50,7 @@ Für die vollständige Teilnahme an allen Bestandteilen der Studie erhältst du 
 
 Psychologie- und Sportstudierende können stattdessen bis zu **10 Versuchspersonenstunden (VP-Stunden)** erhalten. Wenn sie alle Studienbestandteile absolvieren, bekommen sie zusätzlich **20 €**.
 
-### Gewinnspiel {#gewinnspiel}
+### Verlosung {#verlosung}
 
 Wir verlosen **50 Wunschgutscheine im Wert von jeweils 50 €**. Du nimmst automatisch teil, sobald mehr als zwei Personen den "Fragebogen für Personen, die dich gut kennen" ausgefüllt haben oder du mehr als 15 Situationseinschätzungen von deinem Gegenüber eingeholt hast. Lose aus beiden Aufgaben zählen zusammen. Je mehr Lose du sammelst, desto höher ist deine Gewinnchance.
 
@@ -108,4 +109,4 @@ Wenn du keine Benachrichtigungen von der Studien-App erhältst, überprüfe bitt
 ### Ich habe alle Schritte ausprobiert, aber es funktioniert trotzdem nicht.
 
 Danke, dass du bis hierhin durchgehalten hast. Leider gibt es einzelne Fälle, in denen die Installation der App und das sichere Zustellen der Benachrichtigungen nicht funktioniert.
-Bitte wende dich mit einer kurzen E-Mail an [persodyn@uni-muenster.de](mailto:persodyn@uni-muenster.de), wir finden eine Alternativlösung!
+Bitte wende dich mit einer kurzen E-Mail an [persodyn@uni-muenster.de](mailto:persodyn@uni-muenster.de), wir haben eine Alternativlösung!
