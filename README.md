@@ -16,7 +16,9 @@ Jede Änderung auf dem `main`-Branch wird automatisch über GitHub Actions gebau
 | `_quarto.yml` | Einstellungen (Seitentitel, Design, Inhaltsverzeichnis). Selten nötig. |
 | `impressum.qmd`, `datenschutz.qmd` | Rechtliche Pflichtseiten (im Footer verlinkt). |
 | `custom.scss`, `fonts/` | Schaltet Google Fonts ab und liefert die Schrift (Source Sans 3, OFL) lokal aus – bitte nicht entfernen (Datenschutz). |
-| `styles.css` | Optische Feinheiten (optional). |
+| `persodyn.scss` | Das PerSoDyn-Design (Farben, Schrift, Karte, Überschriften) – übernommen aus dem Studien-Theme im `persodyn`-Repo. |
+| `styles.css` | Optische Feinheiten (optional), u. a. die Logos in der Kopfleiste. |
+| `images/` | PerSoDyn- und Uni-Münster-Logo, Favicon. |
 | `.github/workflows/publish.yml` | Automatische Veröffentlichung. Bitte nicht ändern. |
 | `_site/` | Erzeugte Webseite – wird automatisch gebaut, nicht von Hand bearbeiten (ist nicht im Git). |
 

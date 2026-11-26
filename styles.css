@@ -15,10 +15,12 @@
   src: url("fonts/SourceSans3VF-Italic.woff2") format("woff2");
 }
 
-/* Eigene Anpassungen am Aussehen der Seite */
+/* Eigene Anpassungen am Aussehen der Seite.
+   Farben, Schriften und Layout stehen in persodyn.scss (PerSoDyn-Design). */
 
-/* Fragen (### Überschriften) etwas absetzen */
-h3 {
-  margin-top: 2rem;
-  font-size: 1.15rem;
+/* Logos in der Kopfleiste der Inhaltskarte: PerSoDyn links, Uni Münster rechts */
+main.content::before {
+  background:
+    url("images/persodyn-lockup-small.svg") left center / contain no-repeat,
+    url("images/uni-muenster-logo.svg") right center / contain no-repeat;
 }

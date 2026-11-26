@@ -1,0 +1,237 @@
+/*-- scss:defaults --*/
+
+// PerSoDyn-Farbschema, übernommen aus dem Studien-Theme
+// (persodyn/Modules/shared_code/css/custom_theme.css, Abschnitt 1).
+// Contrast 1 #1D5167 · Contrast 2 #5F1718 · Contrast 3 Lila #484B75 / Gelb #C88900
+
+$pd-primary:        #1D5167;
+$pd-primary-soft:   #3594BD;
+$pd-primary-hover:  #153D4D;
+$pd-accent:         #484B75;
+$pd-accent-soft:    #9CA0DE;
+$pd-error:          #5F1718;
+$pd-yellow:         #C88900;
+
+$pd-bg-body:        #EEF2F5;
+$pd-bg-card:        #ffffff;
+$pd-text:           #000F17;
+$pd-text-muted:     #4B5866;
+$pd-border-soft:    #D8E0E6;
+
+$primary:           $pd-primary;
+$secondary:         $pd-text-muted;
+$info:              $pd-primary-soft;
+$warning:           $pd-yellow;
+$danger:            $pd-error;
+
+$body-bg:           $pd-bg-body;
+$body-color:        $pd-text;
+$headings-color:    $pd-text;
+$text-muted:        $pd-text-muted;
+$border-color:      $pd-border-soft;
+
+$link-color:        $pd-primary;
+$link-hover-color:  $pd-primary-hover;
+$link-decoration:   none;
+
+// Schrift: Source Sans 3, lokal ausgeliefert (custom.scss + fonts/, Datenschutz).
+// Die Fragebögen nutzen stattdessen die Systemschrift.
+$font-size-root:    17px;
+$line-height-base:  1.6;
+$headings-font-weight: 700;
+$headings-line-height: 1.25;
+
+// Hinweiskästen in den Studienfarben
+$callout-color-note:      $pd-primary;
+$callout-color-tip:       $pd-accent;
+$callout-color-warning:   $pd-yellow;
+$callout-color-important: $pd-error;
+$callout-color-caution:   $pd-error;
+
+// Inhaltsverzeichnis rechts
+$toc-color:         $pd-primary;
+$toc-active-border: $pd-primary;
+
+/*-- scss:rules --*/
+
+:root {
+  --pd-radius-card: 16px;
+  --pd-shadow-card: 0 1px 2px rgba(16, 40, 52, 0.04), 0 8px 32px rgba(16, 40, 52, 0.06);
+}
+
+// --- Links: ohne Unterstreichung, erst beim Hovern ---
+a {
+  transition: color 0.2s ease;
+}
+a:hover,
+a:focus-visible {
+  text-decoration: underline;
+}
+
+// --- Inhalt als weiße Karte (wie die Fragebogenseiten) ---
+main.content {
+  background: $pd-bg-card;
+  border-radius: var(--pd-radius-card);
+  box-shadow: var(--pd-shadow-card);
+  padding: 32px 40px 40px;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+// Kopfleiste mit Logos: PerSoDyn links, Uni Münster rechts (wie Abschnitt 21 im
+// Studien-Theme). Die Bilder selbst setzt styles.css, weil dieses SCSS nach
+// site_libs/ kompiliert wird und relative Bildpfade von dort nicht stimmen.
+main.content::before {
+  content: "";
+  display: block;
+  height: 36px;
+  margin: 0 0 28px;
+}
+
+// --- Titelbereich ---
+#title-block-header {
+  margin-bottom: 2rem;
+
+  .title {
+    font-size: 2.1rem;
+    font-weight: 700;
+    margin-top: 0;
+  }
+  .subtitle {
+    color: $pd-text-muted;
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding-top: 0.25rem;
+  }
+  .quarto-title-meta {
+    margin-top: 1rem;
+    color: $pd-text-muted;
+    font-size: 0.9rem;
+  }
+}
+
+// --- Themenblöcke (##): Balken links in Contrast 1, wie die Abschnitts-Banner ---
+main.content h2 {
+  font-size: 1.55rem;
+  font-weight: 700;
+  border-bottom: none;
+  border-left: 3px solid $pd-primary;
+  padding: 4px 0 4px 14px;
+  margin-top: 2.75rem;
+  margin-bottom: 1rem;
+}
+
+// --- Fragen (###) ---
+main.content h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+p, ul, ol {
+  margin-bottom: 1.1em;
+}
+
+strong, b {
+  color: $pd-text;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: $pd-border-soft;
+  opacity: 1;
+  margin: 2em 0;
+}
+
+blockquote {
+  border-left: 4px solid $pd-primary;
+  background: rgba($pd-primary, 0.06);
+  padding: 16px 20px;
+  border-radius: 0 8px 8px 0;
+  color: $pd-text;
+}
+
+// --- Hinweiskästen: weicher, mit getönter Fläche ---
+.callout {
+  border-radius: 8px;
+  border-top: none;
+  border-right: none;
+  border-bottom: none;
+  box-shadow: none;
+}
+.callout-note, .callout-tip, .callout-warning, .callout-important, .callout-caution {
+  &.callout-style-default .callout-header {
+    background-color: transparent;
+    font-weight: 700;
+  }
+}
+.callout-note    { background: rgba($pd-primary, 0.06); }
+.callout-tip     { background: rgba($pd-accent, 0.07); }
+.callout-warning { background: rgba($pd-yellow, 0.09); }
+.callout-important,
+.callout-caution { background: rgba($pd-error, 0.06); }
+
+// --- Inhaltsverzeichnis ---
+#TOC, nav#TOC {
+  #toc-title {
+    font-weight: 700;
+    color: $pd-text;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.8rem;
+  }
+  .nav-link {
+    color: $pd-text-muted;
+  }
+  .nav-link.active,
+  .nav-link:hover {
+    color: $pd-primary;
+    text-decoration: none;
+  }
+}
+
+#quarto-margin-sidebar {
+  margin-top: 1.5rem;
+}
+
+// Link-Anker an den Fragen in der Studienfarbe
+.anchorjs-link {
+  color: $pd-primary-soft !important;
+}
+
+// --- Fußzeile als Pille, wie bei den Fragebögen ---
+.nav-footer {
+  border-top: none;
+  background: transparent;
+  justify-content: center;
+}
+.nav-footer .nav-footer-center {
+  background: $pd-bg-card;
+  color: $pd-text-muted;
+  font-size: 0.9em;
+  padding: 10px 24px;
+  border: 1px solid $pd-border-soft;
+  border-radius: 30px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.02);
+  min-height: auto;
+  width: fit-content;
+  max-width: 90%;
+  margin: 0 auto 0.75rem;
+}
+
+// --- Handy ---
+@media (max-width: 600px) {
+  main.content {
+    margin-top: 0;
+    padding: 20px 18px 24px;
+    border-radius: 12px;
+  }
+  main.content::before {
+    height: 30px;
+    margin-bottom: 18px;
+  }
+  #title-block-header .title { font-size: 1.7rem; }
+  main.content h2 { font-size: 1.35rem; }
+}

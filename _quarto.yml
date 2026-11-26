@@ -3,23 +3,20 @@ project:
   output-dir: _site
   resources:
     - fonts/*
+    - images/
 
 website:
   title: "PerSoDyn – Fragen & Antworten"
+  favicon: images/persodyn-mark-small.svg
   page-navigation: false
   search: false
   page-footer:
-    left: "© Universität Münster"
-    right:
-      - text: "Impressum"
-        href: impressum.qmd
-      - text: "Datenschutz"
-        href: datenschutz.qmd
+    center: "© Universität Münster · [Impressum](impressum.qmd) · [Datenschutz](datenschutz.qmd) · [persodyn@uni-muenster.de](mailto:persodyn@uni-muenster.de)"
 
 format:
   html:
     lang: de
-    theme: [cosmo, custom.scss]
+    theme: [default, custom.scss, persodyn.scss]
     css: styles.css
     toc: true
     toc-title: "Inhalt"
