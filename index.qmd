@@ -40,6 +40,12 @@ Die Studie besteht aus **zwei Teilen**: der Online-Erhebung und der anschließen
 
 ![](studienablauf.png){width=100%}
 
+### Warum zählt mein Fortschritt eine Einschätzung noch nicht? {#fortschritt}
+
+Deine eigenen Situationsberichte zählen sofort. Fragebögen und Einschätzungen, die andere Personen über dich ausfüllen, werden dagegen **mit etwas Verzögerung** gezählt: Wir rufen sie nur in Abständen ab. Meist kommen sie beim nächsten Ping dazu, über Nacht kann es auch bis zum nächsten Morgen dauern. Neben der Zahl siehst du, wann sie zuletzt aktualisiert wurde („Stand: …“).
+
+Eine Einschätzung zählt erst, wenn die andere Person den Fragebogen **ganz abgeschlossen** hat, und nur, wenn sie ihn **auf ihrem eigenen Gerät** ausgefüllt hat. Fehlt eine Einschätzung auch nach einem Tag noch, schreib uns gern an [persodyn@uni-muenster.de](mailto:persodyn@uni-muenster.de).
+
 ### Kann ich die Teilnahme abbrechen?
 
 Ja. Die Teilnahme ist freiwillig und du kannst jederzeit ohne Angabe von Gründen aufhören. Bitte schreibe uns dazu eine E-Mail an [persodyn@uni-muenster.de](mailto:persodyn@uni-muenster.de).
